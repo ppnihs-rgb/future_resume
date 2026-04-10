@@ -36,12 +36,12 @@ ppnihss@naver.com
 - 기존 예측 대비 오차율 20% 감소
 
 ### 7. 자격증
-
 - SQLD (SQL 개발자)
 - ADsP (데이터 분석 준전문가)
 - Google Data Analytics Professional Certificate
 
 ### 8. 수상
+
 | 대회명 | 수상경력 |
 |:---:|:---:|
 | Kaggle 데이터 분석 경진대회 | 상위 10% |
